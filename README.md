@@ -1,7 +1,7 @@
 # Using Add-ons from the ofxAddons library
 http://www.ofxaddons.com/
 
-## Work
+## INSTALL ADDONS
 
 STEP 1: INSTALL OFPLUGIN - This makes it easy to add all the addons you want
 
@@ -22,6 +22,12 @@ STEP 3: RUN THE EXAMPLES
 
 * 1) If you cloned the addons folder (Step2 option2) you can find an examples folder in the "of_v0.8.4_osx_release / ofXAddons/your specific addon / examples". Move that folder to "of_v0.8.4_osx_release/examples/addons"
 * 2) Open the example xcode project (or whatever IDE you have); add the Add-on to the project, and run it.
+* 
+
+## WRITING ADDONS
+
+- Always include a thumbnail and ReadMe
+- 
 
 
 
