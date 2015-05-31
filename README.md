@@ -1,4 +1,5 @@
 # Using Add-ons from the ofxAddons library
+http://www.ofxaddons.com/
 
 STEP 1: INSTALL OFPLUGIN - This makes it easy to add all the addons you want
 1) install OFPlugin: https://github.com/admsyn/OFPlugin (restart XCode affter install)
