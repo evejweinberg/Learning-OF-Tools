@@ -9,7 +9,7 @@ STEP 1: INSTALL OFPLUGIN - This makes it easy to add all the addons you want
   Video Turorial: https://vimeo.com/79061998
 
 
-STEP 2: CHOOSE AN ADDON AND ADD IT TO YOUR OF FOLDER, and PROJECT
+STEP 2: CHOOSE AN ADDON, ADD IT TO YOUR OF_FOLDER, and PROJECT
 
 * 1) Find the addon you want from http://www.ofxaddons.com/categories
 * 2-option1) Drag the downloaded folder into your "of_v0.8.4_osx_release / ofXAddons" folder
