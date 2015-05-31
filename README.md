@@ -24,6 +24,7 @@ STEP 3: RUN THE EXAMPLES
 * 2) Open the example xcode project (or whatever IDE you have); add the Add-on to the project, and run it.
 * 
 
+**Bonus: Every time you manually add these addons, they become options in your Project Generator**
 ## WRITING ADDONS
 http://www.ofxaddons.com/pages/howto#make
 
