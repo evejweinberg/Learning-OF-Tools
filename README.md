@@ -25,9 +25,9 @@ STEP 3: RUN THE EXAMPLES
 * 
 
 ## WRITING ADDONS
+http://www.ofxaddons.com/pages/howto#make
+Always include a thumbnail and ReadMe
 
-- Always include a thumbnail and ReadMe
-- 
 
 
 
